@@ -1,0 +1,6 @@
+function js() {
+  
+}
+function ts() {
+
+}
