@@ -1,4 +1,9 @@
+// bienvenida
 function bnv {
   alert("by luisangel")
 }
-bnv()
+//retraso de 4 segundos w
+SetTimeout(() => {
+  // execute the code
+  bnv()
+}, 4000)
