@@ -1,6 +1,4 @@
-function js() {
-  alert("Hello world")
+function bnv {
+  alert("by luisangel")
 }
-function ts() {
-  alert("Hello world")
-}
+bnv()
