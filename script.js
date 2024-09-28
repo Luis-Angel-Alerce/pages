@@ -1,9 +1,5 @@
-// bienvenida
-function bnv {
-  alert("by luisangel")
-}
-//retraso de 4 segundos w
+// ejecuta el codigo en 4 segundos
 SetTimeout(() => {
-  // execute the code
-  bnv()
+// bienvenida
+alert("by Luis Angel")
 }, 4000)
